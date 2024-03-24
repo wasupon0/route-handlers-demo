@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div>
       <Button>Click me</Button>
+      &nbsp;
       <Link href="http://google.com">test</Link>
     </div>
   );
